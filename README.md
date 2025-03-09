@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Tzohar Lary
+- 🎓 CS Student at [University Name]
+- 🔭 Working on cool projects
+- 🌱 Learning C++, Python, and Java
 
 <!--
 **TzoharLary/TzoharLary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
